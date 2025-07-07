@@ -60,4 +60,4 @@ gem "solidus", "~> 4.5"
 
 gem "solidus_admin", ">= 0.2"
 
-gem "tailwindcss-rails", "~> 3.0"
+gem "tailwindcss-rails", "~> 4.3"
